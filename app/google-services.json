@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "326842841067",
+    "firebase_url": "https://caramel-binder-270806.firebaseio.com",
+    "project_id": "caramel-binder-270806",
+    "storage_bucket": "caramel-binder-270806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326842841067:android:675a43f9a8ed18b34ecbae",
+        "android_client_info": {
+          "package_name": "com.example.chatappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326842841067-eth3nnk6pcj6mmihj0igum5sv5rqrdic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFXKLcONYjDooQkqVgjqs2_bE37tmwQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326842841067-eth3nnk6pcj6mmihj0igum5sv5rqrdic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326842841067:android:5f1c061283a371314ecbae",
+        "android_client_info": {
+          "package_name": "com.example.codingstuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326842841067-eth3nnk6pcj6mmihj0igum5sv5rqrdic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFXKLcONYjDooQkqVgjqs2_bE37tmwQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326842841067-eth3nnk6pcj6mmihj0igum5sv5rqrdic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
